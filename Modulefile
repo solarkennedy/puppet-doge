@@ -1,0 +1,8 @@
+name    'KyleAnderson-doge'
+version '0.0.1'
+source 'https://github.com/solarkennedy/puppet-doge'
+author 'KyleAnderson'
+license 'Apache License, Version 2.0'
+summary 'doge in your motd'
+description 'doge in your motd'
+project_page 'https://github.com/solarkennedy/puppet-doge'
