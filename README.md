@@ -1,6 +1,7 @@
 doge
+----
 
-This is the doge module.
+This is the doge module. It makes your MOTD happy?
 
 Screenshot
 ---------
