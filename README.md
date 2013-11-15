@@ -2,6 +2,10 @@ doge
 
 This is the doge module.
 
+Screenshot
+---------
+![Screenshot](https://raw.github.com/solarkennedy/puppet-doge/master/doge.png)
+
 License
 -------
 Apache2
